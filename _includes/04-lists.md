@@ -1,0 +1,2 @@
+- learning about Github process
+- watching movies
