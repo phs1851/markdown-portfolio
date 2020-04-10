@@ -1,2 +1,2 @@
--learning about Github process
--watching movies
+- learning about Github process
+- watching movies
